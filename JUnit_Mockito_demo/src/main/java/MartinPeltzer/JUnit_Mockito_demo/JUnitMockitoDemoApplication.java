@@ -9,6 +9,6 @@ public class JUnitMockitoDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JUnitMockitoDemoApplication.class, args);
 	}
-		//Test commit
+
 
 }
