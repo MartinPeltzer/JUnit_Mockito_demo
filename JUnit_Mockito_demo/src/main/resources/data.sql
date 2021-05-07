@@ -1,4 +1,4 @@
-insert into customers (first_name, last_name, date_of_birth)
+insert into clients (first_name, last_name, date_of_birth)
 values
 ('Marieke','Willems','1958-08-20'),
 ('Manon','de Groot','1977-11-28'),
